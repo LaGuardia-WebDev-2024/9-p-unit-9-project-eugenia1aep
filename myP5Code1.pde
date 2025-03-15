@@ -1,4 +1,4 @@
-setup = function() {
+aassssetup = function() {
     size(600, 400);
 };
 
